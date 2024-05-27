@@ -1,2 +1,2 @@
-# LinearRegressionScratch
-I have implemented Linear Regression Algorithm from Scratch ( without ML Libraries ) to predict prices of used Cars. The dataset has been taken from Kaggle. 
+# CarPricePredictor
+This project implements a Linear Regression algorithm from scratch to predict the prices of used cars. The dataset is sourced from Kaggle, and the implementation does not rely on any machine learning libraries, providing a clear, educational look into the workings of Linear Regression.
